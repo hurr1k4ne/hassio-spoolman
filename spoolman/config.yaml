@@ -1,7 +1,7 @@
-name: Spoolman Server
+name: Spoolman Server debug
 description: Run the latest stable version of Spoolman.
 url: https://github.com/donkie/spoolman
-slug: spoolman_server
+slug: spoolman_server_debug
 init: false
 arch:
   - aarch64
