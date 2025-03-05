@@ -43,6 +43,7 @@ startup: application
 udev: true
 webui: "[PROTO:option_name]://[HOST]:[PORT:8000]"
 environment:
+  SPOOLMAN_DEBUG_MODE: true
   SPOOLMAN_DIR_DATA: "/config"
   PUID: "0"
   PGID: "0"
